@@ -18,8 +18,6 @@ function submitForm(event) {
     console.log(arr);
 
 
-    resetvalue('name','email','password')
-
     name.value = '';
     email.value = '';
     password.value ='';
