@@ -16,7 +16,7 @@ Bootstrap 5
 ## Getting Started
 To get a local copy up and running follow these simple steps:
 
-Clone the repository: git clone https://github.com/your-username/responsive-form.git
+Clone the repository: git clone  https://aniketsaini5.github.io/login-form-js/
 Navigate into the project directory: cd responsive-form
 Open index.html in your preferred web browser.
 ## Usage
